@@ -1,7 +1,7 @@
 # totalitycorp-frontend-challenge
 Using REACT JS 
 
-## Challenge Details 
+# # Challenge Details 
 
  # Product Listing: 
 
