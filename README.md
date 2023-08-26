@@ -23,6 +23,7 @@ Ensure the website is responsive and works seamlessly on both desktop and mobile
 
 Optimize the layout for different screen sizes. 
 
-## tech stack details
+## # tech stack details
 REACT Js and Material UI in some part .
 And Most part CSS used.
+### # DEPLOY LINK :- https://skgecommercetempleted.netlify.app/
