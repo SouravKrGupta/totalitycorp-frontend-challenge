@@ -25,4 +25,4 @@ Optimize the layout for different screen sizes.
 
 ## tech stack details
 REACT Js and Material UI in some part .
-ANd Most part CSS used.
+And Most part CSS used.
